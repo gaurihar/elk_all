@@ -1,0 +1,13 @@
+ServiceBranch,ClaimCount,CountryCode_Origin,LongOrig,LatOrig,OrignCountry,CountryCode_Dest,LongDest,LatDest,DestCountry
+Army,1,AD,1.601554,42.546245,Andorra,AK,-154.493062,63.588753,Andorra
+Air Force,2,AD,2.601554,43.546245,Andorra,IN,78.96288,20.593684,India
+Navy,0,AD,3.601554,44.546245,Andorra,IN,79.96288,21.593684,India
+Marine,1,IN,78.96288,20.593684,India,AT,14.550072,47.516231,Austria
+Army,3,IN,78.96288,20.593684,India,AU,133.775136,-25.274398,Australia
+Marine,2,IN,78.96288,20.593684,India,BE,4.469936,50.503887,Belgium
+Air Force,0,CN,104.195397,35.86166,China,CN,104.195397,35.86166,China
+Marine,0,VI,-64.896335,18.335765,U.S. Virgin Islands,JP,138.252924,36.204824,Japan
+Navy,0,VI,-63.896335,19.335765,U.S. Virgin Islands,JP,139.252924,37.204824,Japan
+Navy,2,AS,170.132217,170.132217,American Samoa,JP,140.252924,38.204824,Japan
+Navy,1,AS,171.132217,171.132217,American Samoa,AU,133.775136,-25.274398,Australia
+,0,,,,,,,,
